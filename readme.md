@@ -16,6 +16,7 @@ Este projeto apresenta um mapa de calor geográfico interativo, utilizando Pytho
 ## Como funciona
 
 O notebook cria uma base de dados fictícia com as seguintes cidades baianas:
+
 - Feira de Santana
 - Salvador
 - Alagoinhas
@@ -35,10 +36,6 @@ O mapa de calor é gerado com o Plotly Express, exibindo cada cidade como um pon
    ```
 2. Abra o arquivo `mapa_de_calor.ipynb` no Jupyter Notebook ou no Visual Studio Code.
 3. Execute todas as células para visualizar o mapa interativo.
-
-## Exemplo de visualização
-
-![Exemplo de mapa de calor](mapa_de_calor.png)
 
 ## Licença
 
